@@ -4,6 +4,7 @@ VBA code to add multiple comments to cells based on newer "threaded comments" in
 - Download the .bas file
 - Open your VBA Editor
 - Import file into Personal.xlsb (or record a macro first to create Personal.xlsb)
+- (Optional) customize quick access toolbar and assign a button to this macro
 
 ## Options
 - Use top left cell comment for all comments in selection
